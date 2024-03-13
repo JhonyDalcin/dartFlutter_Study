@@ -1,0 +1,3 @@
+Ctrl + Alt + L -> formata o código para deixar legível
+Comentário: // comenta linha, mútiplas linhas /* */
+            /// Comentário de Documentação
